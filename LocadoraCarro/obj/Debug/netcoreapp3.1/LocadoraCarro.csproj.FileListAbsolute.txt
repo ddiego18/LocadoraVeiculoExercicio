@@ -1,0 +1,13 @@
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\bin\Debug\netcoreapp3.1\LocadoraCarro.exe
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\bin\Debug\netcoreapp3.1\LocadoraCarro.deps.json
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\bin\Debug\netcoreapp3.1\LocadoraCarro.runtimeconfig.json
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\bin\Debug\netcoreapp3.1\LocadoraCarro.runtimeconfig.dev.json
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\bin\Debug\netcoreapp3.1\LocadoraCarro.dll
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\bin\Debug\netcoreapp3.1\LocadoraCarro.pdb
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\obj\Debug\netcoreapp3.1\LocadoraCarro.csprojAssemblyReference.cache
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\obj\Debug\netcoreapp3.1\LocadoraCarro.AssemblyInfoInputs.cache
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\obj\Debug\netcoreapp3.1\LocadoraCarro.AssemblyInfo.cs
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\obj\Debug\netcoreapp3.1\LocadoraCarro.csproj.CoreCompileInputs.cache
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\obj\Debug\netcoreapp3.1\LocadoraCarro.dll
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\obj\Debug\netcoreapp3.1\LocadoraCarro.pdb
+C:\Users\ddieg\Desktop\LocadoraCarro\LocadoraCarro\obj\Debug\netcoreapp3.1\LocadoraCarro.genruntimeconfig.cache
